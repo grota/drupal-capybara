@@ -1,0 +1,6 @@
+# binstubs:
+/bins/
+/tmp/
+/.bundle/
+/chromedriver.log
+/.rvmrc
